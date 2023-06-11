@@ -11,10 +11,8 @@ A Note Taking App that utilizes a many-to-many relationship schema between the N
 * 2.) Dynamic querying: Customize your search criteria with custom predicates, sort orders, and order by options. This gives you a great deal of flexibility in how you search for notes.
 
 * 3.) Real-time updates: All changes to your notes are updated in real time, so you can always be sure that you are working with the latest version of your data.
-<div class="row">
-  <div class="column">
-    <img width="467" alt="Screenshot 2023-06-11 at 6 21 13 PM" src="https://github.com/amitabh1609/NoteBook/assets/73311217/ed79a8b0-a6a0-4188-9db6-377302deb5bb">
-  </div>
+<p float = "left">
+ <img width="467" alt="Screenshot 2023-06-11 at 6 21 13 PM" src="https://github.com/amitabh1609/NoteBook/assets/73311217/ed79a8b0-a6a0-4188-9db6-377302deb5bb">
   
  <img width="467" alt="Screenshot 2023-06-11 at 6 21 54 PM" src="https://github.com/amitabh1609/NoteBook/assets/73311217/8cd11f03-44f3-464c-830f-1b7f7cf013a3">
 
@@ -22,4 +20,4 @@ A Note Taking App that utilizes a many-to-many relationship schema between the N
  <img width="467" alt="Screenshot 2023-06-11 at 6 22 10 PM" src="https://github.com/amitabh1609/NoteBook/assets/73311217/e5163ea2-1667-428b-81e3-f8c3df70140d">
 
 
-</div>
+</p>
