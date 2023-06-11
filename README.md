@@ -16,12 +16,10 @@ A Note Taking App that utilizes a many-to-many relationship schema between the N
     <img width="467" alt="Screenshot 2023-06-11 at 6 21 13 PM" src="https://github.com/amitabh1609/NoteBook/assets/73311217/ed79a8b0-a6a0-4188-9db6-377302deb5bb">
   </div>
   
-  <div class="column">
     <img width="467" alt="Screenshot 2023-06-11 at 6 21 54 PM" src="https://github.com/amitabh1609/NoteBook/assets/73311217/8cd11f03-44f3-464c-830f-1b7f7cf013a3">
-   </div>
+
   
-   <div class="column">
      <img width="467" alt="Screenshot 2023-06-11 at 6 22 10 PM" src="https://github.com/amitabh1609/NoteBook/assets/73311217/e5163ea2-1667-428b-81e3-f8c3df70140d">
-   </div>
+
 
 </div>
